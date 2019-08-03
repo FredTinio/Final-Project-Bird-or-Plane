@@ -1,0 +1,15 @@
+Image_Name,Image_Identiy,Model_Prediction
+testbird.jpg,Bird,Bird
+testplane.jpg,Plane,Plane
+testbird.jpg,Bird,Bird
+testplane.jpg,Bird,Plane
+testbird.jpg,Bird,Bird
+testplane.jpg,Plane,Plane
+testbird.jpg,Bird,Bird
+testplane.jpg,Plane,Plane
+testbird.jpg,Plane,Bird
+testplane.jpg,Bird,Plane
+testbird.jpg,Bird,Bird
+testplane.jpg,Bird,Plane
+test_images\testbird.jpg,Plane,Bird
+test_images\testplane.jpg,Bird,Plane
